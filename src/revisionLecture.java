@@ -4,3 +4,8 @@ public class revisionLecture {
         c1.equals("Ram");
     }
 }
+ class NextRevision{
+    public static void main(String[] args){
+        System.out.println("Checking update on git");
+    }
+ }
